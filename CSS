@@ -1,0 +1,69 @@
+body{
+     
+     
+}
+h1 {
+
+}
+h2 {
+
+}
+.container {
+      border: 2px solid black;
+      margin: 5px auto;
+}
+.color-container {
+  display: block
+  border: 2px solid black;
+  text-align: center;
+  margin: 2px;
+}
+.color-panel {
+  border: 2px solid black;
+  margin: 5px auto;
+  width: 33%;
+  display: inline-block;
+}
+.cool-blue {
+  background-color: #2d5dcc;
+}
+.pink {
+  background-color: #d957d9;
+}
+.mint-green {
+  background-color: #4fe0b0;
+}
+.beige {
+  background-color: #efd9ca;
+}
+.font-container {
+  display: inline-block;
+  margin: 10px auto;
+  padding: 10px;
+  border: 2px black;
+}
+.font-label {
+        text-decoration: underline;
+        font-size: 20px;
+}
+.source-code-pro{
+  font-family: 'source code pro';
+}
+.nunito{
+   font-family: 'nunito';
+}
+.poppins{
+   font-family: 'poppins';
+}
+.regular{
+
+}
+.bold{
+  font-weight: 700;
+}
+.italic{
+  font-style: italic;
+}
+.text-panel{
+  padding-left: 10px;
+}
